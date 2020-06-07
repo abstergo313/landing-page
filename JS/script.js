@@ -141,7 +141,7 @@ function createPricing() {
         {
             pricing: "Deluxe",
             description: "Exclusive offers for those that enjoy the finer things in life.",
-            price: "$20pcm"
+            price: "$25pcm"
         },
         {
             pricing: "Luxor",

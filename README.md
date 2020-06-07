@@ -1,2 +1,2 @@
 # Project 2 Landing Page
- Udacity Front End Developer Nanodegree
+ Udacity Front End Developer Nanodegree!
